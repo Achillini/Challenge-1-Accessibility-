@@ -1,6 +1,6 @@
 # Horiseon
 
-## A website that need the accessibility standard to be meet, a better run on the browser with better coding and better structure
+## A website that need the accessibility standard to be meet and a better run on the browser with improved structured codes
 
 
 Changes in html
