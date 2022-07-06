@@ -20,7 +20,7 @@
 -css codes were simplify delating unnecessary codes. These changes will help run the website better  
 
 ## Website
- 
+ https://achillini.github.io/Challenge-1-Accessibility-/#search-engine-optimization
 
 
 ## Outcome
